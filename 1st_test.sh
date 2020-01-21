@@ -6,3 +6,5 @@ do
   iperf -y c -c 10.4.0.2 -n 10M >> ~/cs925/A5/100DHL_Cubic.txt
 
 done
+
+  
