@@ -70,3 +70,4 @@ axes.set_ylabel('Throughput rate(%)')
 plt.legend (['0%','25%', '50%', '75%',"100%"])
 #plt.title('Test with different bandwidth numbers and 0.01ms latency')
 plt.savefig("Cubic3rd.png")
+    
