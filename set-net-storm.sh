@@ -67,3 +67,4 @@ snmpget -v 2c -c ${WRITE_COMM} ${TARGET} ${MIB}::psnImpBandwidthBitRate.32
 
 # enable emulation
 snmpset -v 2c -c ${WRITE_COMM} ${TARGET} ${MIB}::psnImpEnable i true
+  
